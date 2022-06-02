@@ -10,3 +10,10 @@ A navigation bar (or navigation system) is a section of a graphical user interfa
 
 # AIM
 Design to develop a pure navigation bar with on bootstrap
+
+### NB
+- words used are not licensed
+
+### License
+
+This project is [MIT](./LICENSE) licensed.
